@@ -3,4 +3,4 @@ pandas==2.2.3
 numpy==2.3.4
 matplotlib==3.10.0
 scikit-survival==0.25.0
-
+dill==0.4.0
